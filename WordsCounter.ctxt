@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=WordsCounter
+comment1.params=
+comment1.target=WordsCounter()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WordsCounter\r\n
+comment2.params=_fileFullName
+comment2.target=WordsCounter(java.lang.String)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ WordsCounter\r\n\ @param\ String\ _fileFullName\r\n
+comment3.params=
+comment3.target=void\ count()
+comment3.text=\r\n\ counts\ unique\ words\ in\ a\ given\ file,\ and\ updates\ the\ hashMap\r\n\ @param\ String\ fileFullName\ -\ file's\ full\ name\ with\ path\r\n\ @return\ nothig\r\n
+comment4.params=
+comment4.target=void\ printWordCount()
+comment4.text=\r\n\ prints\ the\ word\ counts\ contained\ in\ the\ hashMap\r\n\ @return\ nothing\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

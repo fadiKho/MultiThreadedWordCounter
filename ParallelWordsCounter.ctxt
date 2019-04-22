@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ParallelWordsCounter
+comment1.params=_fileFullName\ _threadName\ _phm
+comment1.target=ParallelWordsCounter(java.lang.String,\ java.lang.String,\ ParallelHashMap)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WordsCounter\r\n\ @param\ String\ _fileFullName\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\ counts\ unique\ words\ in\ a\ given\ file,\ and\ updates\ the\ hashMap\r\n\ @param\ String\ fileFullName\ -\ file's\ full\ name\ with\ path\r\n\ @return\ nothig\r\n
+comment3.params=
+comment3.target=void\ start()
+comment4.params=
+comment4.target=void\ printWordCount()
+comment4.text=\r\n\ prints\ the\ word\ counts\ contained\ in\ the\ hashMap\r\n\ @return\ nothing\r\n
+numComments=5

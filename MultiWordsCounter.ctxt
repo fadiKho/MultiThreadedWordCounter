@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MultiWordsCounter
+comment1.params=
+comment1.target=MultiWordsCounter()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WordsCounter\r\n
+comment2.params=
+comment2.target=void\ count()
+comment2.text=\r\n\ counts\ unique\ words\ in\ the\ given\ files,\ and\ updates\ the\ hashMap\r\n\ @return\ nothing\r\n
+comment3.params=
+comment3.target=void\ printWordCount()
+comment3.text=\r\n\ prints\ the\ word\ counts\ contained\ in\ the\ hashMap\r\n\ @return\ nothing\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
